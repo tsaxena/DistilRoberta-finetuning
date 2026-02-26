@@ -1,0 +1,34 @@
+[
+  {
+    "tokens": ["Apple", "was", "founded", "by", "Steve", "Jobs", "in", "California", "."],
+    "ner_tags": ["B-ORG", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O"]
+  },
+  {
+    "tokens": ["Google", "acquired", "DeepMind", "for", "$", "500", "million", "."],
+    "ner_tags": ["B-ORG", "O", "B-ORG", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["Barack", "Obama", "served", "as", "president", "of", "the", "United", "States", "."],
+    "ner_tags": ["B-PER", "I-PER", "O", "O", "O", "O", "O", "B-LOC", "I-LOC", "O"]
+  },
+  {
+    "tokens": ["The", "Eiffel", "Tower", "is", "located", "in", "Paris", "."],
+    "ner_tags": ["O", "B-LOC", "I-LOC", "O", "O", "O", "B-LOC", "O"]
+  },
+  {
+    "tokens": ["Microsoft", "CEO", "Satya", "Nadella", "announced", "new", "AI", "products", "."],
+    "ner_tags": ["B-ORG", "O", "B-PER", "I-PER", "O", "O", "O", "O", "O"]
+  },
+  {
+    "tokens": ["Amazon", "opened", "a", "new", "warehouse", "in", "Seattle", "last", "year", "."],
+    "ner_tags": ["B-ORG", "O", "O", "O", "O", "O", "B-LOC", "O", "O", "O"]
+  },
+  {
+    "tokens": ["Elon", "Musk", "leads", "Tesla", "and", "SpaceX", "."],
+    "ner_tags": ["B-PER", "I-PER", "O", "B-ORG", "O", "B-ORG", "O"]
+  },
+  {
+    "tokens": ["The", "UN", "headquarters", "are", "in", "New", "York", "City", "."],
+    "ner_tags": ["O", "B-ORG", "O", "O", "O", "B-LOC", "I-LOC", "I-LOC", "O"]
+  }
+]

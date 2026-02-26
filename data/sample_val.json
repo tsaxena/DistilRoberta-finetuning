@@ -1,0 +1,14 @@
+[
+  {
+    "tokens": ["Meta", "was", "founded", "by", "Mark", "Zuckerberg", "in", "California", "."],
+    "ner_tags": ["B-ORG", "O", "O", "O", "B-PER", "I-PER", "O", "B-LOC", "O"]
+  },
+  {
+    "tokens": ["The", "Nobel", "Prize", "was", "awarded", "to", "Marie", "Curie", "."],
+    "ner_tags": ["O", "B-MISC", "I-MISC", "O", "O", "O", "B-PER", "I-PER", "O"]
+  },
+  {
+    "tokens": ["OpenAI", "is", "headquartered", "in", "San", "Francisco", "."],
+    "ner_tags": ["B-ORG", "O", "O", "O", "B-LOC", "I-LOC", "O"]
+  }
+]
